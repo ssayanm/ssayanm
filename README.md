@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Gatsby with Strapi for backend api requests.
 <!--
 **ssayanm/ssayanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
