@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Gatsby with Strapi for backend api requests.
+- 🌱 I’m a freelance web developer
+- 🔭 React | Gatsby | Strapi | HTML | SCSS | CSS | JS | Wordpress
 <!--
 **ssayanm/ssayanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
