@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m a freelance web developer
+- 🌱 I’m a fulltime freelance web developer
 - 🔭 I mainly use Gatsby | Strapi | React | Node | HTML | SCSS | CSS | JS | Wordpress for all kind of web development works.
 - My Portfolio -> https://www.sayanmukherjee.com/
 <!--
