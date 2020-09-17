@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m a fulltime freelance web developer
-- 🔭 I mainly use Gatsby | Strapi | React | Node | HTML | SCSS | CSS | JS | Wordpress for all kind of web development works.
+- 🔭 I mainly use Gatsby | Wordpress | HTML | SCSS | CSS | JS | Strapi | React | Node for all kind of web development works.
 - My Portfolio -> https://www.sayanmukherjee.com/
 <!--
 **ssayanm/ssayanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
